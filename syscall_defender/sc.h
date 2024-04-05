@@ -1,2 +1,2 @@
-char shellcode[265728] = {
+char shellcode[4] = {
 	0xC3, 0x3D, 0x84, 0xC1}
