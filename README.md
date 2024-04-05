@@ -13,4 +13,6 @@
 绕过defender的完整项目
 
 更多关于本项目的介绍，请前往公众号：**零攻防**
+![c800f5ec38fe9a903d98961c564dd8e](https://github.com/ImCoriander/Bypass_Defender/assets/165987738/05c6eda2-444f-4ac9-9c3c-c95538f2f9a9)
 
+在使用过程中，添加自己喜欢的反沙箱手法，可以更加持久哦！！！
